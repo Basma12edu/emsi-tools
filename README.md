@@ -1,1 +1,0 @@
-**Holberton zero day project**
